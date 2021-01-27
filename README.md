@@ -1,2 +1,2 @@
-# B-Plus-Tree
+# B+Tree
 B+ tree implementation
